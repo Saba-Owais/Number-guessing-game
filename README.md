@@ -1,2 +1,2 @@
 # Number-guessing-game
-Number Guessing Game: Guess the randomly generated number within a range. Receive feedback after each guess. Fun and interactive!"
+"Number Guessing Game is a simple yet entertaining game where the player tries to guess a randomly generated number within a specified range. The game provides feedback to the player after each guess, indicating whether the guess is too high, too low, or correct. Players can keep guessing until they correctly identify the hidden number or choose to quit. This project aims to provide a fun and interactive way to practice logical thinking and numerical intuition."
